@@ -1,5 +1,5 @@
-# Kvasir-Multiclass-GI-Prediction
-Detection of different types of GI diseases on the basis of images.
+# Ocular-Disease-Classification
+Detection of different types of eye diseases on the basis of right and left eye images.
 
 ### The dataset is available at:
-https://datasets.simula.no/kvasir/
+https://www.kaggle.com/andrewmvd/ocular-disease-recognition-odir5k
